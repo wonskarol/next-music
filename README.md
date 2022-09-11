@@ -2,6 +2,10 @@
 
 Next.js application I built for the recruitment process.
 
+## How does it look like
+
+https://next-music-psi.vercel.app/
+
 ## How to run
 
 ```
